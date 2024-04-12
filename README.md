@@ -1,2 +1,2 @@
-# CodingProjects
+Windows System Analysis Application with Python
 To explore the inner workings of Windows 11, I developed a Python application that delves into the system's architecture. Leveraging the powerful psutil library, I was able to extract detailed hardware specifications encompassing CPU, RAM, and storage capabilities. Additionally, I integrated Windows Management Instrumentation (WMI) queries to compile a list of installed software. My application also uncovers crucial network configuration details, including IP addresses and network adapter information.
